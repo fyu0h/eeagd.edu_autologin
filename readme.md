@@ -28,7 +28,7 @@
 
 3. 运行脚本：
 
-   `python login.py`
+   `python main.py`
 
   脚本会提示您输入考生号和密码。输入后按回车键继续。
 
